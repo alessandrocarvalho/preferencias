@@ -1,19 +1,13 @@
 # Instruções de uso
 
 ## Instalação Usando Composer
-### Baixe o Composer (https://getcomposer.org/download/ na pasta do projeto), se não estiver instalado.
-### Vá para o diretório do seu projeto e execute composer require "mercadopago/dx-php:dev-master" na linha de comando.
+# Baixe o Composer (https://getcomposer.org/download/ na pasta do projeto), se não estiver instalado.
+# Vá para o diretório do seu projeto e execute composer require "mercadopago/dx-php:dev-master" na linha de comando.
 
 
 
-https://www.mercadopago.com.br/developers/pt/plugins_sdks/sdks/official/php/
+Configurar as credenciais (Access Token) no arquivo generate.php
 
-Configurar as credenciais (CLIENT_ID e CLIENT_SECRET) no arquivo generate.php
-
-```php
-const CLIENT_ID = "";
-const CLIENT_SECRET = "";
-```
 
 Você deve pegar essas credenciais através do link: <https://www.mercadopago.com.br/account/credentials> clicando na aba **CHECKOUT_BASICO**
 
