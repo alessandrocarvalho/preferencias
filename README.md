@@ -1,8 +1,8 @@
 # Instruções de uso
 
 ## Instalação Usando Composer
-# Baixe o Composer (https://getcomposer.org/download/ na pasta do projeto), se não estiver instalado.
-# Vá para o diretório do seu projeto e execute composer require "mercadopago/dx-php:dev-master" na linha de comando.
+## Baixe o Composer (https://getcomposer.org/download/ na pasta do projeto), se não estiver instalado.
+## Vá para o diretório do seu projeto e execute composer require "mercadopago/dx-php:dev-master" na linha de comando.
 
 
 
